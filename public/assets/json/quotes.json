@@ -1,5 +1,9 @@
 {
   "messages": [
+        {
+      "type": "info",
+      "text": "Hi, Exploit-kid here! Welc."
+    },
     {
       "type": "info",
       "text": "Hi, Exploit-kid here! Welcome to the diddy party."
