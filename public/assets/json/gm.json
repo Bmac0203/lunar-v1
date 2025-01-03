@@ -25,9 +25,17 @@
   },
 
   {
-    "name": "Subway Surfers",
+   "name": "Subway Surfers",
     "image": "/assets/images/icons/subway.png",
     "link": "https://ubg77.github.io/updatefaqs/subway-surfers-winter-holiday/",
     "error": false
+  },
+  
+  {
+    "name": "OvO",
+    "website": "https://www.coolmathgames.com/0-ovo/play",
+    "icon": "../assets/logo/ovo.png",
+    "error": false
   }
+
 ]
